@@ -178,6 +178,11 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -1.7085133e-15
       objectReference: {fileID: 0}
+    - target: {fileID: 3224833085344233659, guid: db818db823fe4d74a96facff9700e426,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4367840199986380849, guid: db818db823fe4d74a96facff9700e426,
         type: 3}
       propertyPath: m_AllowOneHandedScaling
@@ -212,6 +217,33 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5894430238315466865, guid: db818db823fe4d74a96facff9700e426,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6975559261928553316, guid: db818db823fe4d74a96facff9700e426,
+        type: 3}
+      propertyPath: m_text
+      value: This scroll was painted in 1656 by Johan Nieuhof, a legendary traveler
+        of the Age of Exploration. Nieuhof journeyed through Brazil, India, China,
+        and other places, leaving behind numerous drawings and writings. The painting
+        depicts the Porcelain Tower of Nanjing, which stood 78 meters tall (equivalent
+        to a modern 26-story building) with nine levels. The tower was covered in
+        multicolored glazed tiles, with 152 wind chimes hanging from the eaves. At
+        night, 144 lanterns placed on various levels would be lit, making the tower
+        visible from miles away.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6975559261928553316, guid: db818db823fe4d74a96facff9700e426,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 39.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6975559261928553316, guid: db818db823fe4d74a96facff9700e426,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 39.1
       objectReference: {fileID: 0}
     - target: {fileID: 7737593005230531086, guid: db818db823fe4d74a96facff9700e426,
         type: 3}
@@ -311,6 +343,43 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Zone2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2207800059064325055, guid: d56b0b363d20a1949ad6a53ff6d95fe7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3731960037541745300, guid: d56b0b363d20a1949ad6a53ff6d95fe7,
+        type: 3}
+      propertyPath: m_Positions.Array.data[0].x
+      value: 5.7101974
+      objectReference: {fileID: 0}
+    - target: {fileID: 3731960037541745300, guid: d56b0b363d20a1949ad6a53ff6d95fe7,
+        type: 3}
+      propertyPath: m_Positions.Array.data[0].z
+      value: -5.506967
+      objectReference: {fileID: 0}
+    - target: {fileID: 3731960037541745300, guid: d56b0b363d20a1949ad6a53ff6d95fe7,
+        type: 3}
+      propertyPath: m_Positions.Array.data[1].x
+      value: 6.632265
+      objectReference: {fileID: 0}
+    - target: {fileID: 3731960037541745300, guid: d56b0b363d20a1949ad6a53ff6d95fe7,
+        type: 3}
+      propertyPath: m_Positions.Array.data[1].z
+      value: -5.075632
+      objectReference: {fileID: 0}
+    - target: {fileID: 6236768746478591230, guid: d56b0b363d20a1949ad6a53ff6d95fe7,
+        type: 3}
+      propertyPath: m_text
+      value: 'The tower is entirely constructed from glaze, brought from various
+        regions of China. Glaze is one of the " SAPTA-RATNA Treasure" In Buddhism,
+        known for its association with healing and warding off evil. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309713701076119321, guid: d56b0b363d20a1949ad6a53ff6d95fe7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6725463406833945746, guid: d56b0b363d20a1949ad6a53ff6d95fe7,
         type: 3}
@@ -758,10 +827,54 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3864375984992777398, guid: 85ef82724133f2e42ab2e04eb5adb89e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7547610093057206848, guid: 85ef82724133f2e42ab2e04eb5adb89e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7674337365771831584, guid: 85ef82724133f2e42ab2e04eb5adb89e,
         type: 3}
       propertyPath: m_Name
       value: Zone3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8712667679780552140, guid: 85ef82724133f2e42ab2e04eb5adb89e,
+        type: 3}
+      propertyPath: m_text
+      value: The incense culture in China reached its peak during the Song Dynasty.
+        In the underground palace of the Da Bao'en Temple ruins, a large number of
+        incense utensils and various types of incense materials, such as sandalwood,
+        clove, and agarwood, were unearthed. Incense represents people's faith in
+        gods and Buddhas, and burning incense was a way for people to show respect
+        and communicate with the divine through the rising smoke. The art of incense,
+        known as Xiangdao, involves slowly filling a mold with powdered incense,
+        then removing the mold to leave behind the shape imprinted by the incense
+        powder. It is then ignited with an open flame to appreciate the fragrance
+        and experience a peaceful state of mind.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8712667679780552140, guid: 85ef82724133f2e42ab2e04eb5adb89e,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 33.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 8712667679780552140, guid: 85ef82724133f2e42ab2e04eb5adb89e,
+        type: 3}
+      propertyPath: m_lineSpacing
+      value: 10.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8712667679780552140, guid: 85ef82724133f2e42ab2e04eb5adb89e,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 33.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 8712667679780552140, guid: 85ef82724133f2e42ab2e04eb5adb89e,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -826,10 +939,81 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2373938417939701807, guid: 67efb8c03a6c9f64b8c93c0da75aac7a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3413889440681279383, guid: 67efb8c03a6c9f64b8c93c0da75aac7a,
         type: 3}
       propertyPath: m_Name
       value: Zone1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4953597091442002975, guid: 67efb8c03a6c9f64b8c93c0da75aac7a,
+        type: 3}
+      propertyPath: m_Positions.Array.data[0].x
+      value: 8.209499
+      objectReference: {fileID: 0}
+    - target: {fileID: 4953597091442002975, guid: 67efb8c03a6c9f64b8c93c0da75aac7a,
+        type: 3}
+      propertyPath: m_Positions.Array.data[0].y
+      value: 1.958
+      objectReference: {fileID: 0}
+    - target: {fileID: 4953597091442002975, guid: 67efb8c03a6c9f64b8c93c0da75aac7a,
+        type: 3}
+      propertyPath: m_Positions.Array.data[0].z
+      value: 0.35500002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4953597091442002975, guid: 67efb8c03a6c9f64b8c93c0da75aac7a,
+        type: 3}
+      propertyPath: m_Positions.Array.data[1].x
+      value: 8.674999
+      objectReference: {fileID: 0}
+    - target: {fileID: 4953597091442002975, guid: 67efb8c03a6c9f64b8c93c0da75aac7a,
+        type: 3}
+      propertyPath: m_Positions.Array.data[1].y
+      value: 2.248
+      objectReference: {fileID: 0}
+    - target: {fileID: 4953597091442002975, guid: 67efb8c03a6c9f64b8c93c0da75aac7a,
+        type: 3}
+      propertyPath: m_Positions.Array.data[1].z
+      value: 0.4965001
+      objectReference: {fileID: 0}
+    - target: {fileID: 6507856182973636924, guid: 67efb8c03a6c9f64b8c93c0da75aac7a,
+        type: 3}
+      propertyPath: m_text
+      value: 'The cover wrote: XXXX-The first edition of the Chinese Buddhist Canon
+        literally meaning ''three baskets'' - sutras, Vinaya, and Abhidharma.  The
+        storage location of the printing blocks for the initial edition of the Chinese
+        Buddhist canon was at Tianxi Temple, the predecessor of this temple.
+
+        After
+        the engraving of the Yongle Southern Canon, it has been preserved in the
+        Great Bao''en Temple, allowing monks from all over to access and copy it.
+        Nanjing soon became the absolute center for the distribution of Buddhist
+        scriptures
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6507856182973636924, guid: 67efb8c03a6c9f64b8c93c0da75aac7a,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 41.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 6507856182973636924, guid: 67efb8c03a6c9f64b8c93c0da75aac7a,
+        type: 3}
+      propertyPath: m_lineSpacing
+      value: 8.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6507856182973636924, guid: 67efb8c03a6c9f64b8c93c0da75aac7a,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 41.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 9045305463754808107, guid: 67efb8c03a6c9f64b8c93c0da75aac7a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -849,6 +1033,11 @@ PrefabInstance:
       propertyPath: m_Renderer
       value: 
       objectReference: {fileID: 254946277}
+    - target: {fileID: 1137366424086630977, guid: 280409cd9d67b914c93d8ba61608f216,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2551294422626358463, guid: 280409cd9d67b914c93d8ba61608f216,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -899,10 +1088,34 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4380313903231598430, guid: 280409cd9d67b914c93d8ba61608f216,
+        type: 3}
+      propertyPath: m_text
+      value: 'The calligraphy brush is an essential tool in traditional Chinese calligraphy,
+        typically made from goat hair or weasel hair. In temples, it is commonly
+        used for transcribing sutras, dipping into ink for writing. The soft bristles
+        and unique ink expression of the brush make it a representative instrument
+        of Chinese calligraphic art. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 4380313903231598430, guid: 280409cd9d67b914c93d8ba61608f216,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 45.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4380313903231598430, guid: 280409cd9d67b914c93d8ba61608f216,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 45.8
+      objectReference: {fileID: 0}
     - target: {fileID: 8444786390350239545, guid: 280409cd9d67b914c93d8ba61608f216,
         type: 3}
       propertyPath: m_Name
       value: Zone4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8853563471003639076, guid: 280409cd9d67b914c93d8ba61608f216,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
