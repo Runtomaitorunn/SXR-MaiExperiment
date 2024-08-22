@@ -106,6 +106,7 @@ public class TwoHandScroll : MonoBehaviour
         if (coverMat.HasProperty("_Unfolding_Value"))
         {
             coverMat.SetFloat("_Unfolding_Value", unfoldingValue);
+            Debug.Log("The unfolding value in scroll is" + unfoldingValue);
         }
         else
         {

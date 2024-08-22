@@ -8,7 +8,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: TwoHandScroll
-  m_Shader: {fileID: -6465566751694194690, guid: 47c8199cd12075240a3cece3e57c5973, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 47c8199cd12075240a3cece3e57c5973,
+    type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -45,7 +46,7 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Unfolding_Value: -8.5
+    - _Unfolding_Value: -8.48
     m_Colors:
     - _BaseColor: {r: 1, g: 0.9842767, b: 0.9842767, a: 0}
   m_BuildTextureStacks: []
