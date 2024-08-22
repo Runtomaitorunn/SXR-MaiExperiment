@@ -183,6 +183,16 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3798244295118188097, guid: db818db823fe4d74a96facff9700e426,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4258220263293096381, guid: db818db823fe4d74a96facff9700e426,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4367840199986380849, guid: db818db823fe4d74a96facff9700e426,
         type: 3}
       propertyPath: m_AllowOneHandedScaling
