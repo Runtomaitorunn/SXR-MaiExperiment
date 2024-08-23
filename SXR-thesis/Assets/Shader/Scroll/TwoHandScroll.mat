@@ -46,7 +46,7 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Unfolding_Value: -6.7
+    - _Unfolding_Value: -4.8
     m_Colors:
     - _BaseColor: {r: 1, g: 0.9842767, b: 0.9842767, a: 1}
   m_BuildTextureStacks: []
