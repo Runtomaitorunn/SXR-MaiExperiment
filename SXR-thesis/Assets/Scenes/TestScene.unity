@@ -555,17 +555,17 @@ PrefabInstance:
     - target: {fileID: 8840305834269376822, guid: db818db823fe4d74a96facff9700e426,
         type: 3}
       propertyPath: unfoldingValue
-      value: -8.5
+      value: -6.7
       objectReference: {fileID: 0}
     - target: {fileID: 8840305834269376822, guid: db818db823fe4d74a96facff9700e426,
         type: 3}
       propertyPath: max_UnfoldingValue
-      value: -6.69
+      value: -4.8
       objectReference: {fileID: 0}
     - target: {fileID: 8840305834269376822, guid: db818db823fe4d74a96facff9700e426,
         type: 3}
       propertyPath: min_UnfoldingValue
-      value: -8.5
+      value: -6.7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3796318592610891182, guid: db818db823fe4d74a96facff9700e426, type: 3}
