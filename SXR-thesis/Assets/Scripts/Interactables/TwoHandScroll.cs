@@ -64,7 +64,7 @@ public class TwoHandScroll : MonoBehaviour
         if (xrSlider != null)
         {
             xrSlider.onValueChange.AddListener(UpdateUnfoldingValue);
-            Debug.Log("Listener added to XRSlider.");
+            //Debug.Log("Listener added to XRSlider.");
         }
         else
         {
@@ -82,11 +82,11 @@ public class TwoHandScroll : MonoBehaviour
         if (xrSlider != null)
         {
             xrSlider.onValueChange.RemoveListener(UpdateUnfoldingValue);
-            Debug.Log("Listener removed from XRSlider.");
+            //Debug.Log("Listener removed from XRSlider.");
         }
         else
         {
-            Debug.LogError("XRSlider is null. Listener not removed.");
+            //Debug.LogError("XRSlider is null. Listener not removed.");
         }
     }
 
@@ -98,7 +98,7 @@ public class TwoHandScroll : MonoBehaviour
 
     public void UpdateUnfoldingValue(float value)
     {
-        Debug.Log("the XRSlider Value is" + xrSlider.value);
+        //Debug.Log("the XRSlider Value is" + xrSlider.value);
         if ( value <= 1 && value >= 0)
         {
             //value = xrSlider.value;
@@ -113,11 +113,11 @@ public class TwoHandScroll : MonoBehaviour
         if (coverMat.HasProperty("_Unfolding_Value"))
         {
             coverMat.SetFloat("_Unfolding_Value", unfoldingValue);
-            Debug.Log("The unfolding value in scroll is" + unfoldingValue);
+            //Debug.Log("The unfolding value in scroll is" + unfoldingValue);
         }
         else
         {
-            Debug.LogError("The material does not have the property '_Unfolding_Value'.");
+            //Debug.LogError("The material does not have the property '_Unfolding_Value'.");
         }
         //coverMat.SetFloat("_Unfolding_Value", unfoldingValue);
         
