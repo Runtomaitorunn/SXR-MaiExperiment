@@ -12,6 +12,8 @@ public class IncenseLit : MonoBehaviour
     private float lerpTime = 0f;
     private bool isLerping = false;
 
+    public AudioSource audioSource;
+
     void Start()
     {
         meshRenderer = GetComponent<MeshRenderer>();
@@ -29,6 +31,8 @@ public class IncenseLit : MonoBehaviour
         {
             isLerping = true;
             lerpTime = 0f;
+            audioSource.Play();
+
         }
     }
 
