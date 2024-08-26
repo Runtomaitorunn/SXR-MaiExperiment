@@ -2559,6 +2559,11 @@ PrefabInstance:
       propertyPath: m_Positions.Array.data[1].z
       value: 0.45649981
       objectReference: {fileID: 0}
+    - target: {fileID: 5034283301878279873, guid: 67efb8c03a6c9f64b8c93c0da75aac7a,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5133975233625300583, guid: 67efb8c03a6c9f64b8c93c0da75aac7a,
         type: 3}
       propertyPath: m_SizeDelta.x
